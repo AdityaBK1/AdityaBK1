@@ -7,17 +7,16 @@
 
 🌱 Certified MERN Stack developer from GUVI(IIT incubated) 
 
-👨‍💻 Experienced Software Engineer 👨‍💻
+👨‍💻 1+ Years of experience in Software Engineer 👨‍💻
 
-📫 How to reach me
-adityaitjob@gmail.com
+ Soft Skills: ⌨️ Programming, 💡 Problem Solving, 🧠Critical &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thinking, 🙌Teamwork, 🏃Leadership,
 
 🔭 I’m currently working on Hospital Management System
 
 
 📄 Know about my experiences
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎁🎁Feel free to reach out to me🎁🎁
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎁🎁To know more, Kindly connect🎁🎁
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="left">Connect with me:</h3>

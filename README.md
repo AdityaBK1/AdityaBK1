@@ -11,10 +11,11 @@
 
  Soft Skills: ⌨️ Programming, 💡 Problem Solving, 🧠Critical &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thinking, 🙌Teamwork, 🏃Leadership,
 
-🔭 I’m currently working on Hospital Management System
-
-
-📄 Know about my experiences
+📄 Know about my experiences 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Experienced Software Engineer adept at writing JUnit test cases &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; for lending channels using Java, SpringBoot, MySQL, and Maven.
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Proven expertise in analyzing requirements and creating comprehensive test scenarios, executing functional and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;non-&nbsp;functional tests,and validating API endpoints.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Proficient in defect logging with JIRA, conducting regression testing, and generating detailed test execution reports in &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AGILE environments.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎁🎁To know more, Kindly connect🎁🎁
 

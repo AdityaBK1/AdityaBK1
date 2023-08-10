@@ -15,7 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Experienced Software Engineer adept at writing JUnit test cases &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for lending channels using Java, SpringBoot, MySQL, and Maven.
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Proven expertise in analyzing requirements and creating &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;comprehensive test scenarios, executing functional and non-&nbsp;functional tests,and validating API endpoints.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Proficient in defect logging with JIRA, conducting regression testing, and generating detailed test execution reports in AGILE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;environments.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● Proficient in defect logging with JIRA, conducting regression testing, and generating detailed test execution reports in AGILE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;environments.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎁🎁To know more, Kindly connect🎁🎁
 
